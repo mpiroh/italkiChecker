@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">italkiChecker</string>
+    <string name="last_check">Last check at:</string>
+    <string name="success">Success:</string>
+</resources>
